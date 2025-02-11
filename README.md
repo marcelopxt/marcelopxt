@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ad6f&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d5b8f&height=120&section=header"/>
 
 # 🧑🏻‍💻 Marcelo Peixoto
 
@@ -32,8 +32,8 @@ Estudante de S.I com ótimo desempenho acadêmico e grande disposição para o a
 
 <h2>📊 Estatísticas</h2>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcelopxt&show_icons=true&count_private=true&hide_border=true&title_color=00ad6f&icon_color=00ad6f&text_color=FFFFFF&bg_color=0d1117" alt="Marcelo Peixoto github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopxt&layout=compact&hide_border=true&title_color=00ad6f&text_color=00ad6f&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcelopxt&show_icons=true&count_private=true&hide_border=true&title_color=0d5b8f&icon_color=0d5b8f&text_color=FFFFFF&bg_color=0d1117" alt="Marcelo Peixoto github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopxt&layout=compact&hide_border=true&title_color=0d5b8f&text_color=0d5b8f&bg_color=0d1117" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ad6f&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d5b8f&height=120&section=footer"/>
