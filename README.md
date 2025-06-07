@@ -27,7 +27,11 @@ Estudante de S.I com ótimo desempenho acadêmico e grande disposição para o a
   <img align="center" alt="Marcelo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Marcelo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Marcelo-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Marcelo-MongoDB" height="30" width="40" src="https://github.com/user-attachments/assets/c6d9ad93-1bf6-4b9a-a481-ecefc44ef1e6">
+
+  
 </div>
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d5b8f&height=120&section=footer"/>
+![laravel-svgrepo-com]()
