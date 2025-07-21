@@ -34,4 +34,3 @@ Estudante de S.I com ótimo desempenho acadêmico e grande disposição para o a
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d5b8f&height=120&section=footer"/>
-![laravel-svgrepo-com]()
