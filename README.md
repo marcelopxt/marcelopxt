@@ -2,9 +2,11 @@
 
 # 🧑🏻‍💻 Marcelo Peixoto
 
-**`Estudante de Programação`**
+**`Desenvolvedor FullStack`**
 
-Desenvolvedor na Certificafe e Estudante de Sistemas de Informação no Instituto Federal Sudeste de Minas. Construindo soluções para o agronegócio com PHP e Laravel. Acredito no poder do código para inovar no campo.
+Desenvolvedor Web com foco na stack PHP/Laravel, aplicando minhas habilidades no dinâmico setor AgTech como parte da equipe da Certificafe. Paralelamente, aprofundo minha base teórica como estudante de Sistemas de Informação no Instituto Federal.
+
+Sou responsável por contribuir no ciclo de vida de desenvolvimento de funcionalidades que otimizam a gestão de fazendas, garantem a rastreabilidade do café e simplificam processos de auditoria. Meu trabalho envolve traduzir as necessidades dos produtores rurais em código limpo, eficiente e de fácil manutenção.
 
 <h2>📞 Entre em Contato</h2>
 <br clear="both">
@@ -50,6 +52,8 @@ Desenvolvedor na Certificafe e Estudante de Sistemas de Informação no Institut
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jquery logo"  />
 </div>
 <br>
 
