@@ -15,7 +15,7 @@ Estudante de S.I com ótimo desempenho acadêmico e grande disposição para o a
 
 </div>
 
-<h2>💻🔧Linguagens e Ferramentas (Em estudo)</h2>
+<h2>💻🔧Linguagens e Ferramentas</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcelo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
