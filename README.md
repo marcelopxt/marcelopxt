@@ -4,7 +4,12 @@
 
 **`Estudante de Programação`**
 
-Estudante de S.I com ótimo desempenho acadêmico e grande disposição para o aprendizado. Capaz de oferecer um serviço de qualidade através de conhecimentos práticos, proatividade  e boas habilidades interpessoais, visando o desenvolvimento profissional.
+Desenvolvedor na Certificafé e estudante de Sistemas de Informação (6º período - IFSMG), com foco em aplicar a tecnologia para gerar impacto positivo no agronegócio. No meu dia a dia, minhas responsabilidades incluem:
+
+- Back-End & Web: Desenvolver e otimizar a plataforma principal da Certificafé utilizando PHP, Laravel e MySQL, implementando funcionalidades que simplificam a vida do produtor de café no processo de certificação.
+- Mobile: Alocado para integrar a equipe que conduzirá a migração estratégica do aplicativo móvel de Flutter para React Native. Estou em fase de estudo e preparação para contribuir na reconstrução de componentes de UI e na modernização da experiência do usuário.
+
+Com uma base sólida em lógica de programação e experiência adicional em projetos com Java e Python, busco constantemente desafios que me permitam crescer tecnicamente enquanto contribuo para soluções com propósito
 
 <h2>📞 Entre em Contato</h2>
 <div align="center"> 
